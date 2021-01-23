@@ -717,64 +717,58 @@ col2
 $Comp
 L keebio:ProMicro U1
 U 1 1 60091C15
-P 5350 4500
-F 0 "U1" H 5350 5337 60  0000 C CNN
-F 1 "ProMicro" H 5350 5231 60  0000 C CNN
-F 2 "Keebio-Parts:ArduinoProMicro" V 6400 2000 60  0001 C CNN
-F 3 "" V 6400 2000 60  0001 C CNN
-	1    5350 4500
-	-1   0    0    1   
+P 5500 4800
+F 0 "U1" H 5500 5637 60  0000 C CNN
+F 1 "ProMicro" H 5500 5531 60  0000 C CNN
+F 2 "Keebio-Parts:ArduinoProMicro" V 6550 2300 60  0001 C CNN
+F 3 "" V 6550 2300 60  0001 C CNN
+	1    5500 4800
+	-1   0    0    -1  
 $EndComp
-Text GLabel 4650 4050 0    50   Input ~ 0
-row0
-Text GLabel 4650 4150 0    50   Input ~ 0
+Text GLabel 4800 5250 0    50   Input ~ 0
 row1
-Text GLabel 4650 3950 0    50   Input ~ 0
+Text GLabel 4800 5350 0    50   Input ~ 0
 row2
-Text GLabel 4650 4250 0    50   Input ~ 0
+Text GLabel 4800 4750 0    50   Input ~ 0
 col0
-Text GLabel 4650 4350 0    50   Input ~ 0
+Text GLabel 4800 4850 0    50   Input ~ 0
 col1
-Text GLabel 4650 4450 0    50   Input ~ 0
+Text GLabel 4800 4950 0    50   Input ~ 0
 col2
-Text GLabel 4650 4550 0    50   Input ~ 0
-col3
-Text GLabel 4650 4650 0    50   Input ~ 0
-col4
-Text GLabel 6050 3950 2    50   Input ~ 0
+Text GLabel 6200 5350 2    50   Input ~ 0
 col5
-Text GLabel 6050 4050 2    50   Input ~ 0
+Text GLabel 6200 5250 2    50   Input ~ 0
 col6
-Text GLabel 6050 4150 2    50   Input ~ 0
+Text GLabel 6200 5150 2    50   Input ~ 0
 col7
-Text GLabel 6050 4250 2    50   Input ~ 0
+Text GLabel 6200 5050 2    50   Input ~ 0
 col8
-Text GLabel 6050 4350 2    50   Input ~ 0
+Text GLabel 6200 4950 2    50   Input ~ 0
 col9
-Text GLabel 6050 4450 2    50   Input ~ 0
+Text GLabel 6200 4850 2    50   Input ~ 0
 col10
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 6009990C
-P 4100 3350
+P 3600 3350
 AR Path="/6008E628" Ref="MX?"  Part="1" 
 AR Path="/6009990C" Ref="MX23"  Part="1" 
-F 0 "MX23" H 4133 3573 60  0000 C CNN
-F 1 "MX-NoLED" H 4133 3499 20  0000 C CNN
-F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 3475 3325 60  0001 C CNN
-F 3 "" H 3475 3325 60  0001 C CNN
-	1    4100 3350
+F 0 "MX23" H 3633 3573 60  0000 C CNN
+F 1 "MX-NoLED" H 3633 3499 20  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 2975 3325 60  0001 C CNN
+F 3 "" H 2975 3325 60  0001 C CNN
+	1    3600 3350
 	1    0    0    -1  
 $EndComp
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX24
 U 1 1 600999EE
-P 4600 3350
-F 0 "MX24" H 4633 3573 60  0000 C CNN
-F 1 "MX-NoLED" H 4633 3499 20  0000 C CNN
-F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 3975 3325 60  0001 C CNN
-F 3 "" H 3975 3325 60  0001 C CNN
-	1    4600 3350
+P 4100 3350
+F 0 "MX24" H 4133 3573 60  0000 C CNN
+F 1 "MX-NoLED" H 4133 3499 20  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 3475 3325 60  0001 C CNN
+F 3 "" H 3475 3325 60  0001 C CNN
+	1    4100 3350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -804,23 +798,23 @@ $EndComp
 $Comp
 L Device:D_Small D23
 U 1 1 600BD975
-P 3950 3600
-F 0 "D23" V 3996 3530 50  0000 R CNN
-F 1 "SOD-123" V 3905 3530 50  0000 R CNN
-F 2 "Keebio-Parts:D_SOD123" V 3950 3600 50  0001 C CNN
-F 3 "~" V 3950 3600 50  0001 C CNN
-	1    3950 3600
+P 3450 3600
+F 0 "D23" V 3496 3530 50  0000 R CNN
+F 1 "SOD-123" V 3405 3530 50  0000 R CNN
+F 2 "Keebio-Parts:D_SOD123" V 3450 3600 50  0001 C CNN
+F 3 "~" V 3450 3600 50  0001 C CNN
+	1    3450 3600
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Small D24
 U 1 1 600BE1C4
-P 4450 3600
-F 0 "D24" V 4496 3530 50  0000 R CNN
-F 1 "SOD-123" V 4405 3530 50  0000 R CNN
-F 2 "Keebio-Parts:D_SOD123" V 4450 3600 50  0001 C CNN
-F 3 "~" V 4450 3600 50  0001 C CNN
-	1    4450 3600
+P 3950 3600
+F 0 "D24" V 3996 3530 50  0000 R CNN
+F 1 "SOD-123" V 3905 3530 50  0000 R CNN
+F 2 "Keebio-Parts:D_SOD123" V 3950 3600 50  0001 C CNN
+F 3 "~" V 3950 3600 50  0001 C CNN
+	1    3950 3600
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -846,58 +840,50 @@ F 3 "~" V 6450 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	3950 3500 4050 3500
+	3450 3500 3550 3500
 Wire Wire Line
-	4450 3500 4550 3500
+	3950 3500 4050 3500
 Wire Wire Line
 	5950 3500 6050 3500
 Wire Wire Line
 	6450 3500 6550 3500
 Wire Wire Line
 	6950 3700 6450 3700
-Connection ~ 3950 3700
+Connection ~ 3450 3700
 Connection ~ 6450 3700
 Wire Wire Line
 	6450 3700 5950 3700
 Text GLabel 2000 3700 0    50   Input ~ 0
 row2
-Connection ~ 4450 3700
 Wire Wire Line
-	4450 3700 3950 3700
-Wire Wire Line
-	2000 3700 3950 3700
+	2000 3700 3450 3700
 Connection ~ 5950 3700
-Wire Wire Line
-	5950 3700 5250 3700
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX?
 U 1 1 600EED95
-P 5400 3350
+P 4600 3350
 AR Path="/6008E628" Ref="MX?"  Part="1" 
 AR Path="/600EED95" Ref="MX25"  Part="1" 
-F 0 "MX25" H 5433 3573 60  0000 C CNN
-F 1 "MX-NoLED" H 5433 3499 20  0000 C CNN
-F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 4775 3325 60  0001 C CNN
-F 3 "" H 4775 3325 60  0001 C CNN
-	1    5400 3350
+F 0 "MX25" H 4633 3573 60  0000 C CNN
+F 1 "MX-NoLED" H 4633 3499 20  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 3975 3325 60  0001 C CNN
+F 3 "" H 3975 3325 60  0001 C CNN
+	1    4600 3350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D25
 U 1 1 600EF1FB
-P 5250 3600
-F 0 "D25" V 5296 3530 50  0000 R CNN
-F 1 "SOD-123" V 5205 3530 50  0000 R CNN
-F 2 "Keebio-Parts:D_SOD123" V 5250 3600 50  0001 C CNN
-F 3 "~" V 5250 3600 50  0001 C CNN
-	1    5250 3600
+P 4450 3600
+F 0 "D25" V 4496 3530 50  0000 R CNN
+F 1 "SOD-123" V 4405 3530 50  0000 R CNN
+F 2 "Keebio-Parts:D_SOD123" V 4450 3600 50  0001 C CNN
+F 3 "~" V 4450 3600 50  0001 C CNN
+	1    4450 3600
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	5250 3500 5350 3500
-Connection ~ 5250 3700
-Wire Wire Line
-	5250 3700 4450 3700
+	4450 3500 4550 3500
 Wire Wire Line
 	6250 3300 6250 2550
 Connection ~ 6250 2550
@@ -905,24 +891,53 @@ Wire Wire Line
 	6750 3300 6750 2550
 Connection ~ 6750 2550
 Wire Wire Line
-	3750 2550 3750 3150
-Wire Wire Line
-	3750 3150 4250 3150
-Wire Wire Line
-	4250 3150 4250 3300
-Connection ~ 3750 2550
-Wire Wire Line
-	4250 2550 4250 3100
-Wire Wire Line
-	4250 3100 4750 3100
-Wire Wire Line
-	4750 3100 4750 3300
+	4250 2550 4250 3300
 Connection ~ 4250 2550
 Wire Wire Line
-	4750 2550 4750 3050
-Wire Wire Line
-	4750 3050 5550 3050
-Wire Wire Line
-	5550 3050 5550 3300
+	4750 2550 4750 3300
 Connection ~ 4750 2550
+Text GLabel 4800 5050 0    50   Input ~ 0
+col3
+Text GLabel 4800 5150 0    50   Input ~ 0
+col4
+Text GLabel 4800 4650 0    50   Input ~ 0
+row0
+Wire Wire Line
+	3750 2550 3750 3300
+Connection ~ 3750 2550
+Connection ~ 3950 3700
+Wire Wire Line
+	3950 3700 3450 3700
+Wire Wire Line
+	3950 3700 4450 3700
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX28
+U 1 1 600F4962
+P 7100 3350
+F 0 "MX28" H 7133 3573 60  0000 C CNN
+F 1 "MX-NoLED" H 7133 3499 20  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 6475 3325 60  0001 C CNN
+F 3 "" H 6475 3325 60  0001 C CNN
+	1    7100 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D28
+U 1 1 600F4C34
+P 6950 3600
+F 0 "D28" V 6996 3530 50  0000 R CNN
+F 1 "SOD-123" V 6905 3530 50  0000 R CNN
+F 2 "Keebio-Parts:D_SOD123" V 6950 3600 50  0001 C CNN
+F 3 "~" V 6950 3600 50  0001 C CNN
+	1    6950 3600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6950 3500 7050 3500
+Wire Wire Line
+	7250 2550 7250 3300
+Connection ~ 7250 2550
+Connection ~ 4450 3700
+Wire Wire Line
+	4450 3700 5950 3700
 $EndSCHEMATC
