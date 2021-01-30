@@ -1017,4 +1017,6 @@ F 4 "C81598" V 2450 2350 50  0001 C CNN "LCSC"
 	1    2450 2350
 	0    -1   -1   0   
 $EndComp
+Wire Wire Line
+	4650 4550 4800 4550
 $EndSCHEMATC
