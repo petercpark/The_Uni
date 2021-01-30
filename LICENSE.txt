@@ -1,0 +1,5 @@
+Copyright Peter C. Park 2021
+
+This hardware design is licensed under CERN Open Hardware License Version 2 - Permissive (https://ohwr.org/cern_ohl_p_v2.txt).
+
+THESE FILES ARE DISTRIBUTED WITH NO IMPLIED OR EXPRESS WARRANTIES, INCLUDING THOSE OF MERCHANTIBILITY OR FITNESS FOR A PARTICULAR PURPOSE.
