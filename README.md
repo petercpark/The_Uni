@@ -26,4 +26,4 @@ I recommend 3d printing your caps, if you don't have a 3d printer, you can buy s
 ![alt text](https://github.com/petercpark/unisplit_orthosteno/blob/main/Screenshots/3d-printed-keycaps.jpg?raw=true)
 
 ## Soldering
-All you have to solder are the switches, if you get the assembled version, I will do this for you.
+All you have to solder are the switches and pro micro if you just get the pcb. If you buy the assembled version, I will do this for you so you won't have to solder.
