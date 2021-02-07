@@ -2,7 +2,8 @@
 The uni-body split ortholinear keyboard for stenography, or the Uni for short. By Peter C Park.
 *** I am not selling this yet ***
 
-![alt text](https://github.com/petercpark/unisplit_orthosteno/blob/main/Screenshots/uni%20board%20render.png?raw=true)
+![pcb](https://github.com/petercpark/unisplit_orthosteno/blob/main/Screenshots/uni%20board%20render.png?raw=true)
+![layout](https://github.com/petercpark/unisplit_orthosteno/blob/main/Screenshots/layout.png?raw=true)
 
 ## Product
 If you are going DIY with this, here are the materials you need:
