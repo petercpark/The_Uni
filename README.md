@@ -14,7 +14,7 @@ If you are going DIY with this, here are the materials you need:
 * Willingness to solder x 1
 
 If you want me to assemble here are the materials you need:
-* money (I don't know how much yet but it will be less expensive than the Georgi for sure)
+* money ($80 + shipping + tax)
 
 ## Arduino
 The arduino you should use is the Pro Micro. You can also use other microcontrollers with same footprints such as the Elite C. I will be providing the Pro Micro on the assembled board.
