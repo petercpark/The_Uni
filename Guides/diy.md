@@ -46,6 +46,7 @@ Here is how the arduino should look on the board
 ![QMK Toolbox configuration](https://github.com/petercpark/The_Uni/blob/main/Pics/qmk-toolbox-setup.jpg?raw=true)
 
 ## Step 7: Hook it up with Plover (applies to those of you who bought the fully assembled version as well)
+* Make sure that the Uni is plugged in to your computer.
 * Open Plover and go to "Configure"
 * Click "Machine" and under the drop down select "Gemini PR"
 * Click "Scan"
