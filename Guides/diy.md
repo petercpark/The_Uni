@@ -1,4 +1,4 @@
-# How to Build your own Uni
+# How to Build Your Own Uni
 ## Step 1: Buy a PCB
 Go to [StenoKeyboard.com](https://www.stenokeyboards.com/) and buy yourself a PCB. Cool. You are done with this step.
 
@@ -35,16 +35,15 @@ Here is how the arduino should look on the board
 * Place your keycap of choice.
 
 ## Step 6: Flash it with QMK Toolbox
-* Download the [firmware](https://github.com/petercpark/The_Uni/releases/tag/v1.0.0)
+* Download the [firmware](https://github.com/petercpark/The_Uni/releases/tag/v1.0.0) (the_uni_default.hex)
 * Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) (qmk_toolbox.exe)
 * Open up QMK Toolbox
-* Select the_uni_default.hex file
+* Select the_uni_default.hex file that you downloaded
 * Make sure it says ATMega32U4 at the top right
 * Check Auto-Flash
+* Next, plug in the keyboard to your computer and using a piece of conductive metal such as a tweezer, connect GND to RST on the back of the keyboard. Wait for it to load up and you have succesfully flashed the keyboard.
 
 ![QMK Toolbox configuration](https://github.com/petercpark/The_Uni/blob/main/Pics/qmk-toolbox-setup.jpg?raw=true)
-
-* Next, plug in the keyboard to your computer and using a piece of conductive metal such as a tweezer, connect GND to RST on the back of the keyboard. Wait for it to load up and you have succesfully flashed the keyboard.
 
 ## Step 7: Hook it up with Plover (applies to those of you who bought the fully assembled version as well)
 * Open Plover and go to "Configure"
