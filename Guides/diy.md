@@ -50,8 +50,9 @@ Here is how the arduino should look on the board
 * Open Plover and go to "Configure"
 * Click "Machine" and under the drop down select "Gemini PR"
 * Click "Scan"
-* Click on the drop down that says "Port" and select the second "COM[insert_number]" option that shows up.
+* Click on the drop down that says "Port" and select the "COM[insert_number]" option that shows up.
 * Click "Apply" and then "OK"
 * Click the drop down on machine and select Gemini PR if it is not already selected and then click the refresh icon.
 * Click "Enable" on the Output and you are good to go!
+* If it does not work, then go back to "Configure" and try selecting a different "COM[insert_number]"
 Now you should be able to use the Uni for steno and use your keyboard normally without having to toggle Plover on and off.
