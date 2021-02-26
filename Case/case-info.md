@@ -1,7 +1,7 @@
 # Important Things to Note When Printing Your Case
 
 - you probably want to 3d print these. Don't try to get it laser cut unless you know what you are doing because the size will not fit if you try laser printing.
-- Regular 1.00 scale WILL NOT FIT. Scale up the model in your slicer to 1.005 or 1.01 to have it fit.
+- Regular 1.00 scale WILL NOT FIT. Scale up the model in your slicer to 1.01 to have it fit.
 - If you just want to test print the fit, sink the model in your slicer so that the bottom layer is not printed. This will allow you to test how tight the border will fit before you print the case including the entire base. This can save time and filament.
 - I used SUNLU PLA
 - print with a bigger nozzle if you have one. Use a 0.3mm layer height for a 0.4mm nozzle for the fastest turnout.
