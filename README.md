@@ -24,7 +24,7 @@ The arduino you should use is the Pro Micro. You can also use other microcontrol
 Nearly any switch is compatible. The board has a footprint that accomodates for mx, alps, and choc style switches. The assembled board will come with Gateron Clear switches (35 grams).
 
 ## Keycaps
-I recommend 3d printing your caps, if you don't have a 3d printer, you can buy some from me (sometime in the future when my store is up). There are flat keycaps for mx style switches at pimpmykeyboard.com called f10 keycaps. There is also a slightly less flatter version called the G20 keycap and the Stenomod uses this as its keycaps. These are extremely expensive though. The assembled version will come with 3d printed keycaps.
+I recommend 3d printing your caps, if you don't have a 3d printer, you can buy some from me. There are flat keycaps for mx style switches at pimpmykeyboard.com called f10 keycaps. There is also a slightly less flatter version called the G20 keycap and the Stenomod uses this as its keycaps. These are extremely expensive though. The assembled version will come with 3d printed keycaps.
 ![alt text](https://github.com/petercpark/unisplit_orthosteno/blob/main/Pics/3d-printed-keycaps.jpg?raw=true)
 
 ## Soldering
