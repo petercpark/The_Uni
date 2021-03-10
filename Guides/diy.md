@@ -7,6 +7,7 @@ You need to buy these components:
 * Pro Micro (or Pro Micro compatible Elite C)
 * 28 PCB Mount* Switches (Mx, Alps, or Choc; they all work!)
 * 28 [Keycaps](https://www.stenokeyboards.com/) (You can also buy keycaps from other vendors)
+* 5 Rubber Feet
 * Solder and Soldering Iron
 * USB Cable to connect your Uni to the computer
 
@@ -31,8 +32,10 @@ Here is how the arduino should look on the board
 * Flip the board over to solder
 * Be careful to not let the switches slip off the pcb or else you will be left with some crooked keys.
 
-## Step 5: Place the Keycaps
+## Step 5: Place the Keycaps and Rubber Feet
 * Place your keycap of choice.
+* Rubber feet go here:
+![Rubber Feet Placement](https://github.com/petercpark/The_Uni/blob/main/Pics/rubber-feet.jpg?raw=true)
 
 ## Step 6: Flash it with QMK Toolbox
 * Download the [firmware](https://github.com/petercpark/The_Uni/releases/tag/v1.0.0) (the_uni_default.hex)
