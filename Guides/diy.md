@@ -35,6 +35,7 @@ Here is how the arduino should look on the board
 ## Step 5: Place the Keycaps and Rubber Feet
 * Place your keycap of choice.
 * Rubber feet go here:
+
 ![Rubber Feet Placement](https://github.com/petercpark/The_Uni/blob/main/Pics/rubber-feet.jpg?raw=true)
 
 ## Step 6: Flash it with QMK Toolbox
