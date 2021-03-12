@@ -1,7 +1,7 @@
 # The Uni Board
 The uni-body split ortholinear keyboard for stenography, or the Uni for short. By Peter C Park.
 
-Now accepting preorders at [StenoKeyboards.com](https://www.stenokeyboards.com/). Expect shipments some time in March 2021.
+Buy it now at [StenoKeyboards.com](https://www.stenokeyboards.com/). Expect shipments some time in March 2021.
 
 ![pcb](https://github.com/petercpark/unisplit_orthosteno/blob/main/Pics/uni%20board%20render.png?raw=true)
 ![layout](https://github.com/petercpark/unisplit_orthosteno/blob/main/Pics/layout.png?raw=true)
