@@ -3127,7 +3127,7 @@
   (gr_text "Peter C. Park Design" (at 142.08125 127.79375) (layer "F.Mask") (tstamp b45faf2b-9fe0-4b69-9554-f30fd72837e7)
     (effects (font (size 2 2) (thickness 0.2)))
   )
-  (gr_text "The Uni" (at 141.2875 119.0625) (layer "F.Mask") (tstamp fa314800-ebbf-428e-8f2b-1e801346579e)
+  (gr_text "The Uni" (at 141.732 119.0625) (layer "F.Mask") (tstamp fa314800-ebbf-428e-8f2b-1e801346579e)
     (effects (font (size 5 5) (thickness 0.3)))
   )
 
