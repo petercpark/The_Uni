@@ -1,4 +1,4 @@
-19837627668069574
+19839246911260324
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86050,6 +86050,13 @@ MX-Alps-Choc-nolargehole
 0
 6
 2
+uni-footprints
+jlc-tooling-hole
+
+
+0
+0
+0
 uni-footprints
 jumper-reversible
 SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 2 copper strips
