@@ -20170,6 +20170,23 @@
       (xy 3.496997 33.87885)) (layer "B.Mask") (width 0.01) (fill solid) (tstamp fccdd285-6bc0-41d6-8aa5-7f0a7117141c))
   )
 
+  (footprint "uni-footprints:jlcjlcjlcjlc" (layer "B.Cu")
+    (tedit 60B0549D) (tstamp 97d1b625-6487-444b-9ccc-fa6590c3d771)
+    (at 72.23125 134.9375 180)
+    (fp_text reference "REF**" (at 0 0.5 unlocked) (layer "B.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp c72b654c-d11e-47a6-b949-41df8a018f8e)
+    )
+    (fp_text value "jlc" (at 0 -1 unlocked) (layer "B.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+      (tstamp eb47c489-7f84-40d8-b732-5d4f2f7d9b67)
+    )
+    (fp_text user "JLCJLCJLCJLC" (at 0 0) (layer "F.SilkS")
+      (effects (font (size 0.81 0.81) (thickness 0.15)))
+      (tstamp 2a922d16-95ea-4cfa-a135-6f66b03dd2e7)
+    )
+  )
+
   (gr_line (start 27.78125 62.70625) (end 27.78125 96.04375) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-0000600b6694))
   (gr_line (start 275.43125 96.04375) (end 275.43125 62.70625) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-0000600b669a))
   (gr_line (start 273.05 60.325) (end 30.1625 60.325) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-0000600b669b))
