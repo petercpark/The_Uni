@@ -1,5 +1,5 @@
 # The Uni Board
-The uni-body split ortholinear keyboard for stenography, or the Uni for short. By Peter C Park.
+The uni-body split ortholinear keyboard for stenography, or the Uni for short. By Peter C Park. I used KiCad Nightly Release so the kicad files are not compatible with older version.
 
 Buy it now at [StenoKeyboards.com](https://www.stenokeyboards.com/).
 
@@ -15,7 +15,7 @@ If you are going DIY with this, here are the materials you need:
 * Willingness to solder x 1
 
 If you want me to assemble here are the materials you need:
-* money ($80 + shipping + tax)
+* money
 
 ## Arduino
 The arduino you should use is the Pro Micro. You can also use other microcontrollers with same footprints such as the Elite C. I will be providing the Pro Micro on the assembled board.
