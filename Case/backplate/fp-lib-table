@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name uni-footprints)(type KiCad)(uri D:/Users/peter/Documents/Keyboards/The_Uni/uni-footprints.pretty)(options "")(descr ""))
+  (lib (name "uni-footprints")(type "KiCad")(uri "/Users/peter/Documents/Keyboards/The_Uni/uni-footprints.pretty")(options "")(descr ""))
 )

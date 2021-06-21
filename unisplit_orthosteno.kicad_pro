@@ -106,7 +106,8 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997
+        "min_via_diameter": 0.39999999999999997,
+        "use_height_for_length_calcs": true
       },
       "track_widths": [],
       "via_dimensions": [],
@@ -352,7 +353,7 @@
       }
     ],
     "meta": {
-      "version": 0
+      "version": 1
     },
     "net_colors": null
   },
@@ -394,7 +395,8 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0
+      "model_mode": 0,
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
@@ -405,7 +407,7 @@
   },
   "sheets": [
     [
-      "7dcfa101-6dae-46fa-a63b-f7e469b1c6c6",
+      "70ebe477-1e0a-4b89-81cc-39182c34e443",
       ""
     ]
   ],
