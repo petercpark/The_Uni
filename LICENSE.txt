@@ -1,5 +1,5 @@
 Copyright Peter C. Park 2021
 
-Ask for permission if you want to use these files. All the copyright for the drawings and designs, including logos, symbols, and art, is owned by me. Personal use is allowed.
+This material is shared under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
-THESE FILES ARE DISTRIBUTED WITH NO IMPLIED OR EXPRESS WARRANTIES, INCLUDING THOSE OF MERCHANTIBILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Link for more details: https://creativecommons.org/licenses/by-nc-sa/4.0/
