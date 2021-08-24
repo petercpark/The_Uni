@@ -1,5 +1,5 @@
 # The Uni Board
-The uni-body split ortholinear keyboard for stenography, or the Uni for short. By Peter C Park. I used KiCad Nightly Release so the kicad files are not compatible with older version.
+The uni-body split ortholinear keyboard for stenography, or the Uni for short. By Peter C Park. This is the pro micro version. I used KiCad Nightly Release so the kicad files are not compatible with older version.
 
 Buy it now at [StenoKeyboards.com](https://www.stenokeyboards.com/).
 
