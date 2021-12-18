@@ -18,14 +18,15 @@ If you want me to assemble here are the materials you need:
 * money
 
 ## Arduino
-The arduino you should use is the Pro Micro. You can also use other microcontrollers with same footprints such as the Elite C. I will be providing the Pro Micro on the assembled board.
+The arduino you should use is the Pro Micro. You can also use other microcontrollers with same footprints such as the Elite C.
 
 ## Switches
-Nearly any switch is compatible. The board has a footprint that accomodates for mx, alps, and choc style switches. The assembled board will come with Gateron Clear switches (35 grams).
+Nearly any switch is compatible with the v2. The board has a footprint that accomodates for mx, alps, and choc v1 style switches.
 
 ## Keycaps
-I recommend 3d printing your caps, if you don't have a 3d printer, you can buy some from me. There are flat keycaps for mx style switches at pimpmykeyboard.com called f10 keycaps. There is also a slightly less flatter version called the G20 keycap and the Stenomod uses this as its keycaps. These are extremely expensive though. The assembled version will come with 3d printed keycaps.
+The best keycaps to use are the OEM R3 keycaps with one of the rows inverted to reduce the gap in the middle.
+I used to recommend 3d printing your caps but OEM R3 caps are better. There are other flat keycaps for mx style switches at pimpmykeyboard.com called f10 keycaps. There is also a slightly less flatter version called the G20 keycaps on their store and people have used them for steno.
 ![alt text](https://github.com/petercpark/The_Uni/blob/main/Pics/3d-printed-keycaps.jpg?raw=true)
 
 ## Soldering
-All you have to solder are the switches and pro micro if you just get the pcb. If you buy the assembled version, I will do this for you so you won't have to solder.
+All you have to solder are the switches and pro micro if you get the pcb with the diodes assembled. If not you'll have to solder the smd diodes yourself. Check the BOM file for the necessary materials.
